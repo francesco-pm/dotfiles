@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = francesco.piacentini.m@gmail.com
+	name = Francesco Piacentini
